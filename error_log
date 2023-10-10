@@ -1,0 +1,78 @@
+[04-Oct-2023 12:01:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_path'@'localhost' (using password: YES) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:07:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_path'@'localhost' (using password: YES) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:08:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_path'@'localhost' (using password: YES) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:08:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_path'@'localhost' (using password: YES) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:08:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_path'@'localhost' (using password: YES) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:08:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_path'@'localhost' (using password: YES) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:11:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_apply '@'localhost' (using password: YES) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:11:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_apply '@'localhost' (using password: YES) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:37:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:38:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_apply'@'localhost' to database 'pathxyaw_jobapply' in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:38:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_apply'@'localhost' to database 'pathxyaw_jobapply' in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:39:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_apply'@'localhost' to database 'pathxyaw_jobapply' in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:50:24 UTC] PHP Warning:  Undefined variable $o15 in /home/pathxyaw/public_html/register.php on line 6
+[04-Oct-2023 12:50:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_jobapply'@'localhost' (using password: YES) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:50:28 UTC] PHP Warning:  Undefined variable $o15 in /home/pathxyaw/public_html/register.php on line 6
+[04-Oct-2023 12:50:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_jobapply'@'localhost' (using password: YES) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10
+[04-Oct-2023 12:51:40 UTC] PHP Warning:  Undefined variable $o15 in /home/pathxyaw/public_html/register.php on line 6
+[04-Oct-2023 12:51:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'pathxyaw_jobapply'@'localhost' (using password: YES) in /home/pathxyaw/public_html/register.php:10
+Stack trace:
+#0 /home/pathxyaw/public_html/register.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/pathxyaw/public_html/register.php on line 10

@@ -1,0 +1,41 @@
+
+
+<!-- ----------------------Others ------------- -->
+
+ @media (max-width: 320px) {
+     .center-div {
+         width: 100%;
+         padding: 0px;
+         margin: 0px;
+         margin: 0 auto;
+     } 
+     
+  .admission-now {
+    color: #265062; padding-left: 10%; font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 1px #ababab; font-size: 100%; text-align: center;
+}   
+     
+     .extra-apply {
+         display: none;
+     }  
+        }
+@media (max-width: 576px) {
+      .center-div {
+         width: 100%;
+         padding: 0px;
+         margin: 0px;
+         margin: 0 auto;
+     }       
+            
+        }
+@media (max-width: 768px) {
+      .center-div {
+         width: 95%;
+          margin: 0 auto;
+
+     }
+            
+        }
+@media (max-width: 992px) {
+
+            
+        } 
